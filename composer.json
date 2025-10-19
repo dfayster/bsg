@@ -2,8 +2,9 @@
     "name": "dfayster/bsg",
     "description": "BSG API PHP Library",
     "version": "1.0.0",
-    "type": "library",
+    "type": "yii2-extension",
     "license": "MIT",
+    "homepage": "https://kav.in.ua/extension/bsg",
     "autoload": {
         "psr-4": {
             "dfayster\\bsg\\": "src/"
