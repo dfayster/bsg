@@ -1,8 +1,6 @@
 <?php
 
 require_once 'BSG/SmsApiClient.php';
-require_once 'BSG/HLRApiClient.php';
-require_once 'BSG/ViberApiClient.php';
 
 class BSG
 {
