@@ -1,6 +1,5 @@
 <?php
-
-require_once 'BSG/SmsApiClient.php';
+use SmsApiClient;
 
 class BSG
 {
